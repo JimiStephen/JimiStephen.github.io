@@ -2,8 +2,8 @@
 title: BY Blog
 SEOTitle: JIMI的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: 892856702@11.com
-description: "Every failure is leading towards success."
+email: 892856702@qq.com
+description: "这只是一个开始"
 keyword: "BY, BY Blog, "
 url: "https://jimistephen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,12 +12,12 @@ github_repo: "https://github.com/JimiStephen/JimiStephen.github.io.git" # you co
 # Sidebar settings (侧边栏)
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "在这里可以写点激励自己的话。"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings （社交账号）
-RSS: false
+#RSS: false
 # weibo_username:     账号名
 #zhihu_username:     账号名
 #github_username:    账号名
@@ -77,8 +77,8 @@ gitalk:
 #ba_track_id: 
 
 # Google Analytics
-#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-#ga_domain: .top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: .top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
