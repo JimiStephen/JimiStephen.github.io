@@ -101,5 +101,13 @@ friends: [
     {
         title: "QQ",
         href: "http://qq.com"
+    },
+     {
+        title: "Foo Blog",
+        href: "http://foo.github.io/"
+    },
+    {
+        title: "Bar Blog",
+        href: "http://bar.github.io"
     }
 ]
